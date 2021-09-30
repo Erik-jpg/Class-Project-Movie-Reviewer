@@ -1,0 +1,25 @@
+{
+  "name": "class-project-movie-reviewer",
+  "version": "1.0.0",
+  "description": "This is for a class written project that we all wrote together in class and it will use an Apollo DB, React and some sort of middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-jpg/Class-Project-Movie-Reviewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erik-jpg/Class-Project-Movie-Reviewer/issues"
+  },
+  "homepage": "https://github.com/Erik-jpg/Class-Project-Movie-Reviewer#readme",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.6.0",
+    "mongodb": "^4.1.2"
+  }
+}
